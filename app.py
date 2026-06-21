@@ -113,11 +113,11 @@ def build_major_login(open_id: str, access_token: str, platform_type: int) -> by
     major.channel_type = 3
     major.cpu_type = 2
     major.cpu_architecture = "64"
-    major.client_version_code = "2019118695"
+    major.client_version_code = "2019116753"
     major.graphics_api = "OpenGLES2"
     major.supported_astc_bitset = 16383
     major.login_open_id_type = 4
-    major.analytics_detail = b"FwQVTgUPX1UaUllDDwcWCRBpWA0FUgsvA1snWlBaO1kFYg=="
+    major.analytics_detail = b"FwQVTgUPX1UaUllDDwcWCRBpWAUOUgsvA1snWlBaO1kFYg=="
     major.loading_time = 13564
     major.release_channel = "android"
     major.extra_info = "KqsHTymw5/5GB23YGniUYN2/q47GATrq7eFeRatf0NkwLKEMQ0PK5BKEk72dPflAxUlEBir6Vtey83XqF593qsl8hwY="
